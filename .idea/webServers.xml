@@ -1,1 +1,10 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f3fa507c-5138-4563-ae84-51f75629e1a0" name="apache" url="http://localhost8090/Green-Supermarket/">
+        <fileTransfer mountedRoot="C:\Program Files\Apache Software Foundation\Tomcat 10.1" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
